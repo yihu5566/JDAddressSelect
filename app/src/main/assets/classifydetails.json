@@ -1,0 +1,193 @@
+﻿[
+  {
+    "type": 1,
+    "classify": [
+      {
+        "children": [
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "电视"
+      },
+      {
+        "children": [
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "洗衣机"
+      },
+      {
+        "children": [
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "洗衣机"
+      }
+    ]
+  },
+  {
+    "type": 2,
+    "classify": [
+      {
+        "children": [
+          {
+            "goodsName": "A手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "手机"
+      },
+      {
+        "children": [
+          {
+            "goodsName": "B手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "B手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "B手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "B手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "B手机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "B手机"
+      }
+    ]
+  },
+  {
+    "type": 3,
+    "classify": [
+      {
+        "children": [
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "电视"
+      },
+      {
+        "children": [
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          },
+          {
+            "goodsName": "A洗衣机",
+            "goodsUrl": "http://58.87.71.247:8080/TestFile/heng1.png"
+          }
+        ],
+        "name": "洗衣机"
+      }
+    ]
+  }
+]
+
