@@ -237,7 +237,7 @@ public class AddressSelectDialog extends DialogFragment implements BaseItemClick
             default:
                 break;
         }
-        //相同tab下进行的position变化处理
+//相同tab下进行的position变化处理，这里要提醒一下，当满足这个条件的时候，就是说明你下一个tab对应的数据需要重新初始化了。
         if (currentSelectMap.get(tabCurrentPosition) != position) {
             int removeTab = mTabLayout.getTabCount() - 1;
             while (removeTab > tabCurrentPosition) {
@@ -247,6 +247,7 @@ public class AddressSelectDialog extends DialogFragment implements BaseItemClick
                 }
                 removeTab--;
             }
+            //防止越界啊，目前只写了三级。其实是可以写成很多。这里没有扩展性
             if (tabCurrentPosition >= 2) {
                 tabCurrentPosition = 2;
             } else {
@@ -261,7 +262,6 @@ public class AddressSelectDialog extends DialogFragment implements BaseItemClick
         //越界的话处理为最后一个tab
         if (tabCurrentPosition >= mTabLayout.getTabCount()) {
             tabCurrentPosition = mTabLayout.getTabCount() - 1;
-
             if (selectAddressResultListener != null) {
                 int[] result = {currentSelectMap.get(0), currentSelectMap.get(1), currentSelectMap.get(2)};
                 selectAddressResultListener.selectAddressResult(result);
@@ -272,6 +272,7 @@ public class AddressSelectDialog extends DialogFragment implements BaseItemClick
             mTabLayout.setScrollPosition(tabCurrentPosition, 0f, true);
         }
         LogUtil.i("tabCurrentPosition--" + tabCurrentPosition + "tabCount" + mTabLayout.getTabCount());
+        //如果在最后一个列表中切换的话这里单独处理一下，因为upDataArray限制里更新的频率。
         if (tabCurrentPosition == oldTabCurrentPosition) {
             switch (tabCurrentPosition) {
                 case 0:
